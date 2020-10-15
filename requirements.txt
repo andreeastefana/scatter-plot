@@ -1,4 +1,4 @@
 numpy==1.14.5
 matplotlib==3.2.2
-math==2.7.18
+math==9.2
 scipy==1.5.0
